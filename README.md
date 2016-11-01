@@ -1,3 +1,3 @@
 # hello-world
 Hello World Repo
-Hello, this is Naveen, i like java.
+Hello, This is Naveen, i like java.
